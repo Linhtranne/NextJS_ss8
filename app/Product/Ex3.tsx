@@ -1,5 +1,5 @@
 // D:\Next.Js\ss8\app\page.tsx
-
+"use client"
 import { useState } from 'react';
 import axios from 'axios';
 
